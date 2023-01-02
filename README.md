@@ -2,7 +2,7 @@
 
 Image Stiching <br>
 
-Exeucting:
+Exeucte:
 ```C
 python image_stiching.py
 ```
