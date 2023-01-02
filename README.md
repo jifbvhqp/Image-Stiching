@@ -1,6 +1,6 @@
-# 電腦視覺 HW ImageStiching 
+# ImageStiching 
 
-Image Stiching <br>
+電腦視覺 HW Image Stiching <br>
 
 Install requirements
 ```C
