@@ -1,4 +1,4 @@
-# ImageStiching 
+# Image-Stiching 
 
 電腦視覺 HW Image Stiching <br>
 ## Result
